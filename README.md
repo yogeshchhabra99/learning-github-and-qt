@@ -12,6 +12,8 @@ https://www.vultr.com/docs/setting-up-git-on-ubuntu-14-04  setting up git
 
 https://www.youtube.com/watch?v=PDzlT_ODpM8 problems with qt
 
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
 adding ssh key pairs
 
 
