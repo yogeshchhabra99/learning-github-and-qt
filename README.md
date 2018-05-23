@@ -16,4 +16,8 @@ https://help.github.com/articles/adding-an-existing-project-to-github-using-the-
 
 adding ssh key pairs
 
+https://www.youtube.com/watch?v=qlPSV7Bs3rE&t=568s  using git and qt
+
+its not mandatory to use qt plugin for git, we can also use simple git commands in the terminal which can be seen in the fourth link.
+
 
